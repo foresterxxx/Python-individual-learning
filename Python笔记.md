@@ -1,3 +1,4 @@
+[TOC]
 # 环境配置简述
 官网下载：[python官网](https://www.python.org/downloads/windows/)，点击download，记得勾选PATH环境变量的配置。检查是否安装完成直接进入cmd窗口（win+r，键入cmd回车）键入py或者python，若成功安装则会弹出python的版本号等信息。  
 接下来自行安装图形化界面pycharm。（当然也可用shell窗口执行，因为python是一门解释型的语言，即一行一行执行。）
